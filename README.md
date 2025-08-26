@@ -22,11 +22,17 @@ This project demonstrates how security tools like port scanners and brute forcer
 
 ## Project Structure
 pen_test_toolkit/
+
 │── main.py # Entry point, handles CLI commands
+
 │── scanner.py # Port scanning module
+
 │── bruteforcer.py # Brute force login module
+
 │── app.py # Demo vulnerable Flask login app
+
 │── passwords.txt # Sample wordlist for brute force
+
 │── requirements.txt # Python dependencies
 
 
